@@ -1,4 +1,4 @@
-# ★ Formulario de Adoção de Gatinhos ★
+# ★ Formulário de Adoção de Gatinhos ★
 Adote um gatinho!
 
 ## ☆ Objetivo ☆
