@@ -41,7 +41,7 @@ body {
     margin-bottom: 10px;
     font-size: 14px;
     font-weight: 600;
-    vertical-align: middle;
+
   }
   
   input[type="text"],
@@ -57,11 +57,15 @@ body {
     margin-bottom: 20px;
     font-size: 16px;
     font-family: 'Montserrat', Arial, sans-serif;
+
   }
   
   input[type="radio"],
   input[type="checkbox"] {
     width: auto;
-    margin-right: 10px;
-    vertical-align: middle;
   }
+
+  input:focus{
+    color: #c19090;
+  }
+
