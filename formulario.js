@@ -15,4 +15,7 @@ function Enviar(){
           'Você considera que ' + idadeGatoUsuario + '\n' +
           'Você considera que ' + sexoGatoUsuario)
 
+    window.location.href='index.html'
+
 }
+
