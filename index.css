@@ -64,6 +64,13 @@ body{
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
 }
 
+.container3 {
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  padding: 20px;
+}
+
 .slogan {
   color: #faf8f1;
   font-size: 50px;
@@ -88,3 +95,38 @@ body{
   color: #422d5a;
   text-align: center;
 }
+
+/* negocinho de passar pro lado */
+.slideContent{
+  margin: 0px 40px;
+}
+.card{
+  border-radius: 20px;
+  background-color: #422d5a;
+}
+
+.cardImage{
+  position: relative;
+  height: 300px;
+  width: 250px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 5px;
+  padding-bottom: 20px;
+}
+
+.cardImage .cardImg{
+  height: 100%;
+  width: 100%;
+  object-fit: cover; 
+}
+
+.cardTitle{
+  color: #faf8f1;
+  font-size: 50px;
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  padding-top: 5px;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
